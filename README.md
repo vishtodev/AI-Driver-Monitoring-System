@@ -47,6 +47,8 @@ cd AI-Driver-Monitoring-System
 
 pip install -r requirements.txt
 
+**Download yolov8s.pt from Ultralytics official release. If unable to download from git.
+
 ##Run the Project
 
 ```bash
